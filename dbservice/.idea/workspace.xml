@@ -2,48 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec4702d-094d-446c-b793-7af1234971c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbservice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stock_price_viewer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/resource/QuoteResourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quote-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Architectural Diagram .jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbservice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dbservice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/QuoteServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/quote-service/src/test/java/com/kasundissanayake/quote/quoteservice/QuoteServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/src/main/java/com/kasundissanayake/stock/stockservice/StockServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/src/main/java/com/kasundissanayake/stock/stockservice/config/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/src/main/java/com/kasundissanayake/stock/stockservice/resource/StockResourceController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-services/stock-service/src/test/java/com/kasundissanayake/stock/stockservice/StockServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kasundissanayake/stock/dbservice/model/Quote.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kasundissanayake/stock/dbservice/model/Quote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kasundissanayake/stock/dbservice/resource/DbServiceResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kasundissanayake/stock/dbservice/resource/DbServiceResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quote-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quote-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/QuoteServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/QuoteServiceApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dbservice" />
   </component>
   <component name="RunManager">
     <configuration name="DbserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -89,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589944386855</updated>
-      <workItem from="1589944389958" duration="629000" />
+      <workItem from="1589944389958" duration="4735000" />
     </task>
     <servers />
   </component>
@@ -97,10 +61,42 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589944554388">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589950289065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589944554388" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589950289065" />
+    <state width="1493" height="375" key="GridCell.Tab.0.bottom" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.0.center" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.0.left" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.0.right" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.1.bottom" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.1.center" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.1.left" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
+    <state width="1493" height="375" key="GridCell.Tab.1.right" timestamp="1589945067287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="375" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589945067287" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1589944674285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
