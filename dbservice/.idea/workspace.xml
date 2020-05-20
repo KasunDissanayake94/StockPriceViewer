@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec4702d-094d-446c-b793-7af1234971c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/resource/QuoteResourceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quote-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quote-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/QuoteServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quote-service/src/main/java/com/kasundissanayake/quote/quoteservice/QuoteServiceApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589944386855</updated>
-      <workItem from="1589944389958" duration="4735000" />
+      <workItem from="1589944389958" duration="5334000" />
     </task>
     <servers />
   </component>
